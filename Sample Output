@@ -1,1 +1,32 @@
-
+Enter your ATM PIN: 1128
+Login Successful!
+1. Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 1
+Current Balance: 100000
+1. Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 2
+DEPOSIT
+Enter amount to deposit: 20000
+Deposit Successful!
+Current Balance: 120000
+1. Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 3
+WITHDRAW
+Enter withdrawing amount: 40000
+Please collect your cash
+Remaining Balance: 80000
+1. Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 4
+Thank you for using ATM
